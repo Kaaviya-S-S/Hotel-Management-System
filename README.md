@@ -3,7 +3,7 @@ This Hotel Management System is built using Object-Oriented Programming (OOP) pr
 **Key Features:**  
 Admin Side:  
 🛠️ Room Management: Admins can manage room availability, assign rooms, and oversee bookings.  
-💼 Customer Records Management: View and manage detailed customer information.  
+🗂️ Customer Records Management: View and manage detailed customer information.  
 💳 Billing Management: Generate and review customer bills.  
 📊 Reports: View overall hotel statistics and customer feedback.  
 Customer Side:  
