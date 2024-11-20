@@ -2,6 +2,8 @@ This Hotel Management System is built using Object-Oriented Programming (OOP) pr
 
 **Key Features:**  
 **Room Booking**: Allows customers to book rooms based on availability and preferences.  
-**Room Assignment**: Automatically assigns rooms based on customer needs (e.g., room type).  
+**Room Assignment**: Automatically assigns rooms based on customer needs.
 **Customer Records**: Stores and manages customer details for easy access.  
-**Billing System**: Generates and manages customer bills, ensuring accurate financial records.  
+**Billing System**: Generates and manages customer bills.  
+**Food Ordering:** Customers can order food from the menu provided and a seperate bill will be generated for the same.  
+**Customer Feedback:** Collects customer feedback to help improve hotel services.
